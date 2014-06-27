@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "1.0.0">
+
+<name>Supermercato Zanfardino</name>
+
+<description>
+Il volantino del supermercato Zanfardino.
+</description>
+
+<author href="http://welcomesmartstrangers.com" email="developer.petrellese@gmail.com">
+Petrellese
+</author>
+
+</widget>
