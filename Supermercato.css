@@ -10,14 +10,21 @@ padding:0px;
 .header{
 width:100%;
 height:120px;
+<<<<<<< HEAD
 margin:0px;
+=======
+>>>>>>> ee03576a5fe09e7db45e8e95b0cd29742c8399b3
 padding:0px;
 background:url(imm_s_z/sfondoheader.jpg);
 background-repeat:repeat;
 	
 }
 .logo{
+<<<<<<< HEAD
 width:320px;
+=======
+width:auto;
+>>>>>>> ee03576a5fe09e7db45e8e95b0cd29742c8399b3
 height:120px;
 background:url(imm_s_z/logozanfardino.png) top no-repeat;
 margin:auto;	
