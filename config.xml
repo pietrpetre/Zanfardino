@@ -10,8 +10,11 @@
 Il volantino del supermercato Zanfardino.
 </description>
 
-<author href="http://welcomesmartstrangers.com" email="developer.petrellese@gmail.com">
+<author href="http://welcomesmartstrangers.com" email="petrellese.developer@gmail.com">
 Petrellese
 </author>
+<icon src="img_s_z/icon_72.png" width="72" height="72" />
+<icon src="img_s_z/icon_48.png" width="48" height="48" />
+<icon src="img_s_z/icon_36.png" width="36" height="36" />
 
 </widget>
